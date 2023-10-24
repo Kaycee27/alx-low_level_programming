@@ -2,7 +2,7 @@
 
 /**
  * add_nodeint - the function
- * @n: node 
+ * @n: node
  * @head: pointer
  * Return: NULL or otherwise
  */
